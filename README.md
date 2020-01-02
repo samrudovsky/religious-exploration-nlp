@@ -2,7 +2,7 @@
 ## Exploring Religious Texts with NLP
 
 ### Project 4 – Metis Data Science Bootcamp (Weeks 7-8)
-
+---
 **Technical Focus**
 - Natural Language Processing 
 	- Tokenization
@@ -17,7 +17,7 @@
 Growing up without any religious tradition, I have always been curious about religious communities and the texts that bind them. As such, I sought to:
 1) Capture common themes across a variety of religious texts (The Old Testament, The New Testament, The Koran, The Book of Mormon, and The Gospel of the Buddha)
 	
-2) Examine the narrative arc of each text through sentiment analysis.
+2) Examine the narrative arc of each text through sentiment analysis
 ---
 ### Process
 - Clean, tokenize, lemmatize, and account for "olde english" from the King James Bible to set up vectorized TF-IDF matrix  
