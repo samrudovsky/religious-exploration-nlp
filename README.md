@@ -2,7 +2,7 @@
 # Exploring Religious Texts with NLP
 
 ## Project 4 – Metis Data Science Bootcamp (Weeks 7-8)
----
+
 **Technical Focus**
 - Natural Language Processing 
 	- Tokenization
