@@ -3,7 +3,7 @@
 
 ## Project 4 – Metis Data Science Bootcamp (Weeks 7-8)
 
-**Technical Focus**
+### Technical Focus
 - Natural Language Processing 
 	- Tokenization
 	- Vectorization
