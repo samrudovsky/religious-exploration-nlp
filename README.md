@@ -38,4 +38,4 @@ For most people, the results are intuitive. For me, a religious neophyte, I foun
 
 ### Code -- Jupyter Notebook
 
-- [notebook/NLP-workflow.ipynb](notebook/NLP-workflow.ipynb) – NLP Pipeline: Data preprocessing, vectorization, topic modeling, and sentiment analysis
+- [notebook/nlp-workflow.ipynb](notebook/nlp-workflow.ipynb) – NLP Pipeline: Data preprocessing, vectorization, topic modeling, and sentiment analysis
