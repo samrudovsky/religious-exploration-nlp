@@ -33,3 +33,9 @@ For most people, the results are intuitive. For me, a religious neophyte, I foun
 2) The notion of sacrifice, condemnation, and the "nature of reality" permeated each text.
 
 3) Sentiment analysis was an unreliable tool on older texts, as polarity scores were unduly high, in part due to the outmoded language and idiosyncratic sentence structure of religious texts.
+
+---
+
+### Code -- Jupyter Notebook
+
+- [notebook/NLP-workflow.ipynb](notebook/NLP-workflow.ipynb) – NLP Pipelin: Data preprocessing, vectorization, topic modeling, and sentiment analysis
