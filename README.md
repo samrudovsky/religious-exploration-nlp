@@ -27,7 +27,7 @@ Growing up without any religious tradition, I have always been curious about rel
 ---
 ### Results
 
-For most people, the results are intuitive. For me, a religious neophyte, I found them fascinating! 
+For many people, the results are presumably intuitive. For me, a religious neophyte, I found them fascinating! 
 1) The afterlife was a strong theme throughout each religious text (though addressed in distinct ways, particularly in Buddhist literature).
 
 2) The notion of sacrifice, condemnation, and the "nature of reality" permeated each text.
